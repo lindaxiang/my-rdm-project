@@ -5,3 +5,7 @@ Here is the agenda:
   - Creating repos, push, pull, commit
   - Collaborative coding: pull requests, code owners
 - Lab: Practicing version control in Git through command line/VSCode or RStudio
+
+Status: in progress.
+Update Status: in progress
+second test: draft
