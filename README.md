@@ -7,3 +7,4 @@ Here is the agenda:
 - Lab: Practicing version control in Git through command line/VSCode or RStudio
 
 Status: in progress.
+Update Status: in progress
