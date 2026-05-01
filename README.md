@@ -6,4 +6,4 @@ Here is the agenda:
   - Collaborative coding: pull requests, code owners
 - Lab: Practicing version control in Git through command line/VSCode or RStudio
 
-Status: draft.
+Status: in progress.
